@@ -1,0 +1,5 @@
+----INSTALLING PACKAGES----
+•	To install any package or software root or sudo privilege is needed.
+•	To install git: sudo apt install git(for Debian), sudo apt-get install git(for ubuntu)
+•	To install vim: sudo apt install vim(for Debian), sudo apt-get install vim(for ubuntu)
+•	To install gtypist: sudp apt install gtypist(for Debian), sudo apt-get install gtypist(for ubuntu)

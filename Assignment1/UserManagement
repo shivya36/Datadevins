@@ -1,0 +1,5 @@
+----USER MANAGEMENT----
+•	To add new users: useradd username or adduser username
+•	To create password for added users: passwd username
+•	To create group: groupadd groupname (root or sudo privilege needed)
+•	To add members in group: usermod -a -G groupname username
